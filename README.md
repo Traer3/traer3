@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React JS
+- 🔭 I’m currently working on video-archive
+- 🌱 I’m currently learning React JS & React Native
 
 
 
