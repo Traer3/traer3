@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on video-archive
+- 🔭 I’m currently working on video-archive & workout-table
 - 🌱 I’m currently learning JS & React Native
 
 
